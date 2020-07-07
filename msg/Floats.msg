@@ -1,0 +1,13 @@
+Header header
+string data
+
+float64 deviation
+float64 left_curv
+float64 right_curv
+float64[] mid_point_vector
+int8 error
+int8 fair_state
+bool left_trun
+bool right_trun
+
+std_msgs/Float64MultiArray testset
